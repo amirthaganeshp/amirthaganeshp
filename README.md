@@ -20,6 +20,13 @@ ML Ops and agentic AI engineering. I build ML models, production data pipelines 
 Google Cloud **Professional ML Engineer** · **Professional Data Engineer** · **Associate Cloud Engineer** ·
 [Google AI Professional Certificate](https://coursera.org/share/42c17fda25a37cb620e77e883bb0a676) (Coursera)
 
+**Featured repositories**
+
+- [**gcp-ml-hands-on**](https://github.com/amirthaganeshp/gcp-ml-hands-on) — ML end to end: seeded CPU examples, one CNN in TensorFlow, PyTorch and JAX, Vertex AI training and KFP v2 pipelines
+- [**gcp-pde-hands-on**](https://github.com/amirthaganeshp/gcp-pde-hands-on) — Professional Data Engineer labs: BigQuery, Beam/Dataflow, Pub/Sub, Spark, orchestration, run locally with emulators
+- [**gcp-ace-hands-on**](https://github.com/amirthaganeshp/gcp-ace-hands-on) — Associate Cloud Engineer labs with CI and a real kind Kubernetes cluster
+- [**gcp_ace**](https://amirthaganeshp.github.io/gcp_ace/) — interactive ACE study app (live demo)
+
 **What I work with**
 
 | Area | Tools |
