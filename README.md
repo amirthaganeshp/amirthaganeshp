@@ -13,9 +13,9 @@ ML Ops and agentic AI engineering. I build ML models, production data pipelines 
 
 **Certifications**
 
-[![Professional Machine Learning Engineer](https://amirthaganeshp.github.io/assets/badges/badge_pmle.png)](https://www.credly.com/badges/2b6a37c2-5649-4a53-b22f-690f9659c75d/public_url)
-[![Professional Data Engineer](https://amirthaganeshp.github.io/assets/badges/badge_pde.png)](https://www.credly.com/badges/56bc4b31-fa1d-4b58-a080-64fbd70ad6ea/public_url)
-[![Associate Cloud Engineer](https://amirthaganeshp.github.io/assets/badges/badge_ace.png)](https://www.credly.com/badges/58cea5a3-c265-4f4e-88cd-c56cf09ff24a/public_url)
+<a href="https://www.credly.com/badges/2b6a37c2-5649-4a53-b22f-690f9659c75d/public_url"><img src="https://amirthaganeshp.github.io/assets/badges/badge_pmle.png" alt="Professional Machine Learning Engineer" width="100"></a>
+<a href="https://www.credly.com/badges/56bc4b31-fa1d-4b58-a080-64fbd70ad6ea/public_url"><img src="https://amirthaganeshp.github.io/assets/badges/badge_pde.png" alt="Professional Data Engineer" width="100"></a>
+<a href="https://www.credly.com/badges/58cea5a3-c265-4f4e-88cd-c56cf09ff24a/public_url"><img src="https://amirthaganeshp.github.io/assets/badges/badge_ace.png" alt="Associate Cloud Engineer" width="100"></a>
 
 Google Cloud **Professional ML Engineer** · **Professional Data Engineer** · **Associate Cloud Engineer** ·
 [Google AI Professional Certificate](https://coursera.org/share/42c17fda25a37cb620e77e883bb0a676) (Coursera)
